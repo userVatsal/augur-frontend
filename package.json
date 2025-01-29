@@ -11,12 +11,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "styled-components": "^5.3.1"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "vite": "^2.5.10"
+    "vite": "^2.9.1"
   }
 }
 
